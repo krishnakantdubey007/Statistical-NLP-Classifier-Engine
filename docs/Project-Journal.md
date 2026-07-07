@@ -36,3 +36,25 @@ Day 1
 - Log Probability
 - Naive Bayes Training
 - Naive Bayes Prediction
+# Day 3
+
+## Completed
+
+- Completed Naive Bayes Engine
+- Implemented Training Algorithm
+- Implemented Prediction Algorithm
+- Added Interactive Console Menu
+- Added Project Information Screen
+- Added Model Statistics
+- Successfully tested the classifier on real SMS messages
+- Verified Spam and Ham predictions using the UCI SMS Spam Collection dataset
+
+## Learned
+
+- Multinomial Naive Bayes
+- Laplace Smoothing
+- Log Probability
+- Object-Oriented Design
+- STL (unordered_map, unordered_set, vector)
+- Exception Handling
+- Interactive Console Programming
