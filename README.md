@@ -230,7 +230,29 @@ Training model...
 3. About Project
 4. Exit
 ```
+# 📸 Project Screenshots
 
+## Startup Menu
+
+![Startup](docs/images/menu.png)
+
+---
+
+## Spam Prediction
+
+![Prediction](docs/images/prediction.png)
+
+---
+
+## Model Statistics
+
+![Statistics](docs/images/statistics.png)
+
+---
+
+## About Project
+
+![About](docs/images/about.png)
 ---
 
 # 📈 Current Features
