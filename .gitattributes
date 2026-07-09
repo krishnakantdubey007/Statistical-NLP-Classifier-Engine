@@ -1,0 +1,13 @@
+# =============================================================================
+# GitHub Linguist Overrides
+# =============================================================================
+# raygui.h is a third-party STB-style single-header C library (raygui v5.0).
+# It is vendored into gui/ for build convenience and is NOT part of this
+# project's own source code. Mark it as vendored so Linguist excludes it
+# from language statistics entirely.
+gui/raygui.h linguist-vendored=true
+
+# Explicitly declare .hpp files as C++ (Linguist already does this, but
+# being explicit prevents any future ambiguity).
+include/*.hpp linguist-language=C++
+gui/Theme.hpp linguist-language=C++
